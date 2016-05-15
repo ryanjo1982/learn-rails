@@ -30,21 +30,6 @@ gem 'gibbon'
 gem 'high_voltage'
 gem 'simple_form'
 
-# Use ActiveModel has_secure_password
-# gem 'bcrypt', '~> 3.1.7'
-
-# Use Unicorn as the app server
-# gem 'unicorn'
-
-# Use Capistrano for deployment
-# gem 'capistrano-rails', group: :development
-
-# learn-rails
-gem 'foundation-rails', '~> 5.5'
-gem 'gibbon'
-gem 'high_voltage'
-gem 'simple_form'
-
 group :development, :test do
   # Call 'byebug' anywhere in the code to stop execution and get a debugger console
   gem 'byebug'
