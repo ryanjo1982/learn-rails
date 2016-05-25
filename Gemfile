@@ -46,3 +46,8 @@ group :development do
   gem 'quiet_assets'
   gem 'rails_layout'
 end
+
+group :test do
+  gem 'minitest-spec-rails'
+  gem 'minitest-rails-capybara'
+end
